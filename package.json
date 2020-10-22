@@ -1,0 +1,26 @@
+{
+  "name": "db2fori",
+  "version": "1.0.0",
+  "description": "Db2 for i client",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worksofliam/node-db2fori.git"
+  },
+  "keywords": [
+    "ibmi",
+    "db2"
+  ],
+  "author": "Works Of Barry",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/worksofliam/node-db2fori/issues"
+  },
+  "homepage": "https://github.com/worksofliam/node-db2fori#readme"
+}
