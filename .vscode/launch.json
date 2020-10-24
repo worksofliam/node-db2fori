@@ -12,7 +12,8 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}/index.js",
-            "runtimeVersion": "12.9.1"
+            "runtimeVersion": "12.9.1",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
